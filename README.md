@@ -11,4 +11,4 @@ This project presents an interactive Excel dashboard to analyze sales performanc
 * Region-wise performance
 * Product category insights
 # Dashboard preview
-![Dashboard](Sales Dashboard Image.png)
+* Sales Dashboard Image.png
